@@ -1,15 +1,15 @@
-TailwindCSS Boilerplate Theme
+Bootstrap Boilerplate Theme
 =============================
 
 ### This is not a theme, it's much more!
 
-TailwindCSS Boilerplate theme **is not a theme**, it's a boilerplate to create some awesome themes with all the developper's tools included: TailwindCSS, Webpack, BrowserSync already configured to build with the OctoberCMS's directory structure, PostCSS with some the majors plugins, PurgeCSS, and all of this managed with NPM.
+Bootstrap Boilerplate theme **is not a theme**, it's a boilerplate to create some awesome themes with all the developper's tools included: Bootstrap, Webpack, BrowserSync already configured to build with the OctoberCMS's directory structure, PostCSS with some the majors plugins, PurgeCSS, and all of this managed with NPM.
 
 **Have fun!**
 
-### TailwindCSS/Webpack/PostCSS ready
+### Bootstrap/Webpack/PostCSS ready
 <details><summary>Display content</summary>
-TailwindCSS, Webpack and PostCSS is already installed and pre-configured to work together.
+Bootstrap, Webpack and PostCSS is already installed and pre-configured to work together.
 Each configuration file is pre-built but customizable directly from your theme directory.
 
 This boilerplate comes with webpack and fully customised `webpack.config.js` file for OctoberCMS to manage all your assets: css, javascript, images, fonts and also all your template files: **Webpack will walk through all your directories and subdirectories** presents in your theme folder to compile the .htm, .html and .txt files to catch all the assets dependencies you may have added in them!
@@ -58,10 +58,10 @@ Again, this theme is not a theme, it's a toolkit, based on NPM. To use it, be su
 
 Then, follow this quick steps:
 
-1. Launch a terminal from the `romainmazb-tailwindcss-boilerplate` directory
+1. Launch a terminal from the `bootstrap-boilerplate` directory
 2. Run `npm install` to install **the boilerplate dependencies**.
-3. Then go to the `blank-src` directory and launch again `npm install`, this will install **your theme dependencies**, for now just the ones required by October, PostCSS and TailwindCSS.
-4. Go back to the `romainmazb-tailwindcss-boilerplate` directory and run npm run watch` to run the development server with hot reload.
+3. Then go to the `blank-src` directory and launch again `npm install`, this will install **your theme dependencies**, for now just the ones required by October, PostCSS and Bootstrap.
+4. Go back to the `bootstrap-boilerplate` directory and run npm run watch` to run the development server with hot reload.
 5. Since a new blank theme were created, go to the October backend settings and activate your new theme.
 5. The best and my favorite part: ***Have fun with coding!***
 
