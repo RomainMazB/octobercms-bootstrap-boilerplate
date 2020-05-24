@@ -1,0 +1,17 @@
+1.0.1:
+    - Theme initialization
+    - Before use PLEASE READ the SPECIFIC UPDATES INSTRUCTIONS in Readme file
+1.0.2:
+    - Fix no such file 'assets/javascript/theme.js' issue
+    - Modified file custom_loaders/theme-filter-loader.js
+1.0.3:
+    - Fix issue which didn't copy all the files
+    - Modified file custom_loaders/theme-filter-loader.js
+1.0.4:
+    - Fix typo causing error 404 on theme.js in the layout import
+    - Modified file src/layouts/default.htm
+1.1.0:
+    - Major release!! You do not have to watch the modified files anymore.
+    - !!!! PLEASE READ THE NEW USE INSTRUCTIONS !!!!
+1.1.1: Bump tailwindcss to ^1.4.5
+1.1.2: Fix boilerplate's plugin dependency
