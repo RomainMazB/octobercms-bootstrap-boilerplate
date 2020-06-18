@@ -25,6 +25,7 @@
     "author": "Romain 'Maz' BILLOIR",
     "license": "ISC",
     "devDependencies": {
+        "@fortawesome/fontawesome-free": "^5.13.0",
         "autoprefixer": "^9.7.3",
         "froala-editor": "^3.1.1-1",
         "jquery": "^3.4.1",
